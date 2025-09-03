@@ -3,12 +3,12 @@ Uses Angelicxs teleport as a base, but is heavily modified and transformative in
 
 
 This script was modified/made by me, Edward. If I make a tebex I'll probably add a link bellow
+My discord username is "not.ex" if you would like to reach out to me for any reason
 I say modified, I used Angelicxs Elevator as a base. Will give more credits below 
 This is my github: https://github.com/NotedDevelopment
 
-This script uses Angelicxs Elevator as a "jumping off point", aka
-	it was built on top of it. The github to the original will be here:
-	https://github.com/GouveiaXS/angelicxs-elevators
+This script uses Angelicxs Elevator as a "jumping off point", aka it was built on top of it. 
+The github to the original will be here: https://github.com/GouveiaXS/angelicxs-elevators
 Angelicxs Github: https://angelicxs.tebex.io/
 
 The changes this script made are the following:
