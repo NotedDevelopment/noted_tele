@@ -9,9 +9,9 @@ This is my github: https://github.com/NotedDevelopment
 
 This script uses Angelicxs Elevator as a "jumping off point", aka it was built on top of it. 
 The github to the original will be here: https://github.com/GouveiaXS/angelicxs-elevators
-Angelicxs Github: https://angelicxs.tebex.io/
+Angelicxs Tebex: https://angelicxs.tebex.io/
 
-The changes this script made are the following:
+The differences between Angelicxs Elevator and this script include:
 
 * Removed a lot of compatibility becuase I can't be asked ;-; just use qbox or qbcore with oxlib idk
 * Switched from manual distance checking to oxlib points
