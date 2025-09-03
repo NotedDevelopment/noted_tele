@@ -29,10 +29,17 @@ The differences between Angelicxs Elevator and this script include:
 How to utelize the config:
 
 Config.ElevatorWaitTime is in charge of how long players will experience being faded out when attempting to use teleports. This number will be in seconds, so 3 = 3 seconds
+
 Config.TeleButton is meant to be a future feature where players can adjust what button allows them to use the elevator while the button that appears is a "default". For now, admins can change what button players use.
+
 This script uses the QBCore export, cringe I know but I'll change it eventually I guess to add compatibility for ESX and direct QBox
+
 Config.DefaultText is the text that will appear for players in the Draw3dText by default
+
 Config.SuspectNameChance is important in the following scenario: If a teleport checks whether a suspect is wanted or not by the police, this setting will roll to see if that individual should be declared by name when identified. So if it fails, it will say "Suspect seen on Transit" vs "John Doe seen on transit".
+
 Config.GangMasks Will have a female and male component. if the player model is female, it will check under the female table. If they are using the male ped, it'll check the male ped tag:
+
 Female: Uses the clothing index of the mask the player may be wearing. If the index is documented, it will then check the number. If the number is documented, it will return the string associated. So for example, if player is wearing Mask 51 with texture 5, it will return the word GSF. 
 
+Male: Same as female, just for male peds
